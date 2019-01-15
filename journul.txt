@@ -1,0 +1,4 @@
+this is for things that i had trouble with that i figured out this is going to be great talking to you like this lol.
+
+
+i keep running into an error that the compent is trying to render or go threw a map when it is nul i need to find a way to render it with out conditionals
